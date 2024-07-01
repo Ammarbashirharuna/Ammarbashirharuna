@@ -1,8 +1,16 @@
-Hi there 👋 I am Ammar bashir haruna front-end engineer based in Nigeria 
+## Hi there, I'm Ammar Bashir! 
 
-Front End Engineer
+I'm a Front-end Enineer with a passion for coding and programming. I'm skilled in html,css,js,react,bootstrap,C.
 
-- 🔭 I’m currently working on online school using Next.js and tailwind css for styling
-- 🌱 I’m currently learning javacrift frameworks
+**Experience:**
+*Team work
+*collaboration
+*communication skills
+
+**Find me on:**
+* Email :ammarbashirharuna2020@gmail.com
+* Twitter: https://x.com/AmmarHar1?s=03
+
+
 
 
