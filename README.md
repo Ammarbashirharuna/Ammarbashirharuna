@@ -1,27 +1,116 @@
-# Ammar Bashir Haruna
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmmarbashirharuna%2FAmmarbashirharuna&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/AmmarHar1)](https://twitter.com/AmmarHar1)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Ammarbashirharuna/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/Ammarbashirharuna/)](https://www.instagram.com/Ammarbashirharuna)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ammarbashirharuna2020@gmail.com)
+###
 
-[![Github](https://img.shields.io/github/followers/Ammarbashirharuna?label=Follow&style=social)](https://github.com/Ammarbashirharuna)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ammar-bashir-b44034359/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/AmmarHar1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="ammarbashirharuna2020@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21897295/ammarprogrammer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
 
--  Hi There, I'm a passionate software engineer specializing in front-end development. I love creating seamless, responsive, and engaging user interfaces that bring designs to life and improve user experiences.
-- 💡 Keen on exploring new front-end technologies and frameworks, and continuously improving my skills.
-- 🛠️ Dedicated to writing clean, maintainable code and following best practices for optimized workflows.
-- 📫 How to reach me: ammarbashirharuna2020@gmail.com
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ammarbashirharuna.Ammarbashirharuna&left_text=Ammar%20"  />
+</div>
 
-### 🖥 Skills
+###
 
-- ### Skills
-- - Front - End Development
-- - Web development
-- - software Development
-- - project Analysis and Research
-### ⚙️ Tech Stack
+<h4 align="center">Hi there 👋</h4>
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=063977) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=063977) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=063977) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=063977) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=063977) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=063977) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=063977) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=063977) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=063977) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=063977) ![Bootstrap](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat-square&logo=Tailwindcss&color=063977) ![Bootstrap](https://img.shields.io/badge/-JavaScrift-05122A?style=flat-square&logo=JavaScrift&color=063977) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=063977) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=063977) ![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite&color=063977) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=063977) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=063977) ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=063977) ![Bootstrap](https://img.shields.io/badge/-VB-05122A?style=flat-square&logo=VB&color=063977)
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm  Software Engineer <br><br>-  i specialized in front end<br>- 📚 I'm currently learning  Springboot <br>- ⚡ In my free time I enjoy Research</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" height="40" alt="opensuse logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ammarbashirharuna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
