@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Clinic System**
 
-- 🌱 I’m currently learning **Java Frameworks**
+- 🌱 I’m Always Learning, Always improving, Java(its my favorite)
 
-- 👯 I’m looking to collaborate on **springboot project**
+- 👯 I’m looking to collaborate on *springboot project**
 
 - 💬 Ask me about **Front-end technologies**
 
