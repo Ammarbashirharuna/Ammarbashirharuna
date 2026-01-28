@@ -5,17 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/ammarhar1" target="blank"><img src="https://img.shields.io/twitter/follow/ammarhar1?logo=twitter&style=for-the-badge" alt="ammarhar1" /></a> </p>
 
-- 🔭 I’m currently working on **Clinic System**
 
-- 🌱 I’m Always Learning, Always improving, Java(its my favorite)
+- 🌱 I’m Always Learning, Always Building, Java(its my favorite)
 
 - 👯 I’m looking to collaborate on *springboot project**
 
-- 💬 Ask me about **Front-end technologies**
-
 - 📫 How to reach me **ammarbashirharuna2020@gmail.com**
 
-- ⚡ Fun fact **I hate Bugs**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
