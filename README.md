@@ -85,72 +85,10 @@ Full-stack payment orchestration platform enabling freelancers and SMEs to accep
   - Seamless payment settlement tracking
 - **Architecture**: Production-grade fintech design patterns
 
----
 
-### **3. Suivi Parcel - Real-Time Delivery Tracking Platform** 🚚
-**Live Parcel Tracking & Delivery Management** | [Website](https://suiviparcel.com/)
 
-Real-time parcel delivery and tracking platform with live updates:
-- **Tech Stack**: Next.js, TypeScript, Real-time APIs
-- **Role**: Frontend Engineer
-- **Features**: Live location tracking, delivery dashboards, user notifications
-- **Focus**: Responsive UI, real-time data synchronization, improved user engagement
 
----
 
-### **4. Appsware Digital Solutions Website** 🌐
-**Company Website** | [Website](https://www.appsware.ng/)
-
-Professional, user-friendly company website showcasing services and enhancing brand visibility:
-- **Tech Stack**: HTML, CSS, JavaScript, React.js, Spring Boot
-- **Features**: Service highlights, client portfolio, seamless cross-device navigation
-- **Focus**: SEO optimization, accessibility, performance
-
----
-
-## 💼 Professional Experience
-
-### **Appsware Digital Solutions** — Remote
-**Founder & CTO** | Jan 2020 – Present
-
-Leading a digital solutions company delivering custom websites and fintech products to enterprise clients:
-- Design and develop scalable backend systems using Java, Spring Boot, and Python
-- Architect microservices infrastructure for client platforms
-- Lead technical decision-making across 10+ concurrent client projects
-- Build responsive, user-focused interfaces using React.js and Next.js
-- Translate business requirements into secure, production-grade solutions
-- Manage full lifecycle: design → development → deployment → optimization
-
-### **Netfusion Ideal and Innovation Solutions** — Remote
-**Software Engineer** | Aug 2025 – Oct 2025
-
-Contributed to core banking and fintech applications:
-- Enhanced fund transfer, teller operations, and receipt generation modules (Java, JSF, JSP, Servlets)
-- Optimized backend transaction logic for secure and efficient processing
-- Improved system performance across multiple branches
-
-### **Jamor Technology** — Remote
-**Backend Engineer** | Apr 2024 – Aug 2024
-
-Backend development at early-stage startup:
-- Designed and implemented RESTful APIs using Python (Flask)
-- Integrated databases and optimized backend logic for scalability
-- Collaborated with frontend teams on API consumption and data flow
-- Supported CI/CD processes and version control with Git
-
----
-
-## 📚 Education
-
-**Informatics Education Ltd**  
-Advanced Diploma | Network and Computer Security
-
-Specialized knowledge in:
-- Computer science fundamentals & software development
-- IT systems architecture
-- Computer security & networking
-
----
 
 ## 🔗 Connect With Me
 
