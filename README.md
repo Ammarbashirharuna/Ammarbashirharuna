@@ -1,26 +1,248 @@
-<h1 align="center">Hi 👋, I'm Ammar Bashir Haruna</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+# 👋 Hi, I'm Ammar Bashir Haruna
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarbashirharuna&label=Profile%20views&color=0e75b6&style=flat" alt="ammarbashirharuna" /> </p>
+**Software Engineer** | **Fintech & Web Systems Architect** | **Founder & CTO at Appsware Digital Solutions**
 
-<p align="left"> <a href="https://twitter.com/ammarhar1" target="blank"><img src="https://img.shields.io/twitter/follow/ammarhar1?logo=twitter&style=for-the-badge" alt="ammarhar1" /></a> </p>
+Building scalable, production-grade systems with Java, React/Next.js, and Python. Passionate about designing robust microservices, optimizing backend transaction processing, and crafting real-time interfaces that drive user engagement and operational efficiency.
 
+---
 
-- 🌱 I’m Always Learning, Always Building, Java(its my favorite)
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on *springboot project**
+I'm a results-driven Software Engineer with a proven track record in designing and deploying scalable fintech and e-commerce systems. As the Founder & CTO of **Appsware Digital Solutions**, I lead the technical vision for delivering custom digital products and services to enterprise clients.
 
-- 📫 How to reach me **ammarbashirharuna2020@gmail.com**
+- 💼 **Founder & CTO** at Appsware Digital Solutions (Jan 2020 - Present)
+- 🏗️ **Expertise**: Microservices architecture, fintech systems, RESTful API design, transaction processing optimization
+- 📊 **Proven Results**: Reduced transaction errors by 35-90%, improved page load performance by 50%, achieved 89% system uptime
+- 🎯 **Specialization**: Full-stack development with both monolith and microservices architectures
+- 🌱 **Always Learning**: Exploring emerging technologies and best practices in distributed systems
 
+---
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ammarbashirharuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ammarbashirharuna" height="30" width="40" /></a>
-<a href="https://twitter.com/ammarhar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ammarhar1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ammarbashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammarbashir" height="30" width="40" /></a>
-<a href="https://fb.com/ammarbashirharuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ammarbashirharuna" height="30" width="40" /></a>
-</p>
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### **Fintech & System Design**
+- **Authentication & Security**: JWT, OAuth2, Spring Security, RBAC
+- **Architecture Patterns**: Microservices, RESTful APIs, Strategy Pattern, Payment Provider Abstraction
+- **Message Queues**: RabbitMQ, Apache Kafka
+- **Databases**: PostgreSQL, SQL optimization
+- **DevOps & Tools**: Docker, Git/GitHub, CI/CD, Linux, AWS
+
+---
+
+## 📈 Key Achievements
+
+✅ **Reduced transaction errors by 90%** through offline/online syncing and robust audit-safe transaction records  
+✅ **Improved page load & processing performance by 50%** with optimized backend systems  
+✅ **Achieved 89% uptime** on enterprise POS system serving multiple clients  
+✅ **35% reduction in transaction errors** across fintech platforms  
+✅ **Built 3 production fintech systems** handling real-time payments and settlements  
+✅ **Leading a growing portfolio** of 10+ enterprise client projects at Appsware Digital Solutions
+
+---
+
+## 🎯 Featured Projects
+
+### **1. Appsware POS System** 🛒
+**Enterprise Point-of-Sale Platform** | [GitHub Repo](https://github.com/Ammarbashirharuna/soventPOS-mono-repo)
+
+A comprehensive hybrid enterprise POS system for retail operations with:
+- **Tech Stack**: Java, Spring Boot, PostgreSQL, React
+- **Key Features**: 
+  - Role-based access control (Spring Security)
+  - Real-time inventory management with barcode scanning
+  - Offline/online syncing with 89% uptime
+  - Automated stock deduction & tax calculation
+  - Sales dashboards & audit-safe transaction records
+- **Impact**: 90% reduction in transaction errors, serving multiple enterprise clients
+
+---
+
+### **2. ZentraPay - Payment Link Generation System** 💳
+**Fintech Payment Orchestration Platform** | [GitHub Repo](https://github.com/Ammarbashirharuna/ZentraPayBackend)
+
+Full-stack payment orchestration platform enabling freelancers and SMEs to accept payments:
+- **Tech Stack**: Java, Spring Boot, Next.js, PostgreSQL
+- **Key Highlights**:
+  - Multi-provider payment routing (Paystack, Stripe) using Strategy Pattern
+  - Secure webhook processing with signature verification & idempotency
+  - Real-time notifications (SendGrid) & comprehensive audit logging
+  - Role-based authentication with Spring Security
+  - Seamless payment settlement tracking
+- **Architecture**: Production-grade fintech design patterns
+
+---
+
+### **3. Suivi Parcel - Real-Time Delivery Tracking Platform** 🚚
+**Live Parcel Tracking & Delivery Management** | [Website](https://suiviparcel.com/)
+
+Real-time parcel delivery and tracking platform with live updates:
+- **Tech Stack**: Next.js, TypeScript, Real-time APIs
+- **Role**: Frontend Engineer
+- **Features**: Live location tracking, delivery dashboards, user notifications
+- **Focus**: Responsive UI, real-time data synchronization, improved user engagement
+
+---
+
+### **4. Appsware Digital Solutions Website** 🌐
+**Company Website** | [Website](https://www.appsware.ng/)
+
+Professional, user-friendly company website showcasing services and enhancing brand visibility:
+- **Tech Stack**: HTML, CSS, JavaScript, React.js, Spring Boot
+- **Features**: Service highlights, client portfolio, seamless cross-device navigation
+- **Focus**: SEO optimization, accessibility, performance
+
+---
+
+## 💼 Professional Experience
+
+### **Appsware Digital Solutions** — Remote
+**Founder & CTO** | Jan 2020 – Present
+
+Leading a digital solutions company delivering custom websites and fintech products to enterprise clients:
+- Design and develop scalable backend systems using Java, Spring Boot, and Python
+- Architect microservices infrastructure for client platforms
+- Lead technical decision-making across 10+ concurrent client projects
+- Build responsive, user-focused interfaces using React.js and Next.js
+- Translate business requirements into secure, production-grade solutions
+- Manage full lifecycle: design → development → deployment → optimization
+
+### **Netfusion Ideal and Innovation Solutions** — Remote
+**Software Engineer** | Aug 2025 – Oct 2025
+
+Contributed to core banking and fintech applications:
+- Enhanced fund transfer, teller operations, and receipt generation modules (Java, JSF, JSP, Servlets)
+- Optimized backend transaction logic for secure and efficient processing
+- Improved system performance across multiple branches
+
+### **Jamor Technology** — Remote
+**Backend Engineer** | Apr 2024 – Aug 2024
+
+Backend development at early-stage startup:
+- Designed and implemented RESTful APIs using Python (Flask)
+- Integrated databases and optimized backend logic for scalability
+- Collaborated with frontend teams on API consumption and data flow
+- Supported CI/CD processes and version control with Git
+
+---
+
+## 📚 Education
+
+**Informatics Education Ltd**  
+Advanced Diploma | Network and Computer Security
+
+Specialized knowledge in:
+- Computer science fundamentals & software development
+- IT systems architecture
+- Computer security & networking
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/am-mar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammarbashirharuna)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarbashir2020@gmail.com)
+[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://www.appsware.ng/)
+
+**Phone**: +234 704 587 2815
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammarbashirharuna&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarbashirharuna&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Key Competencies
+
+**Architecture & Design**
+- Microservices Architecture
+- RESTful API Design
+- System Design & Scalability
+- Design Patterns (Strategy, Factory, etc.)
+
+**Backend Development**
+- Java, Spring Boot, Spring Security, Spring MVC
+- Python, Flask
+- Transaction Processing & Optimization
+- Database Design & Optimization (PostgreSQL)
+
+**Frontend Development**
+- React.js, Next.js, TypeScript
+- Responsive UI/UX Design
+- Real-time Interfaces
+
+**Fintech Specialization**
+- Payment Processing & Integration
+- Multi-provider Payment Routing
+- Webhook Processing & Idempotency
+- Security & Compliance
+- Transaction Reconciliation
+
+**DevOps & Tools**
+- Docker & Containerization
+- CI/CD Pipelines
+- Git & GitHub
+- Linux & Server Management
+- AWS
+
+**Messaging & Real-time Systems**
+- RabbitMQ
+- Apache Kafka
+- Real-time Notifications
+
+---
+
+## 🌟 Open To
+
+- 🤝 Collaborations on fintech and scalable web systems projects
+- 💡 Discussing system design and architecture best practices
+- 📚 Mentoring junior developers in backend development
+- 🚀 Exploring innovative technologies and emerging patterns
+
+---
+
+## 💬 Let's Chat!
+
+I'm always interested in discussing software architecture, fintech challenges, or potential collaborations. Feel free to reach out via:
+
+- **Email**: ammarbashir2020@gmail.com
+- **LinkedIn**: [linkedin.com/in/am-mar](https://linkedin.com/in/am-mar)
+- **GitHub**: [@ammarbashirharuna](https://github.com/ammarbashirharuna)
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects interesting, consider giving them a star! It means a lot.
+
+**Thanks for visiting my profile!**  
+*Building the future, one scalable system at a time.*
+
+</div>
