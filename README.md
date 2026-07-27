@@ -130,6 +130,7 @@ Full-stack payment orchestration platform enabling freelancers and SMEs to accep
 **Backend Development**
 - Java, Spring Boot, Spring Security, Spring MVC
 - Python, Flask
+- Javascript, node.js,express.js
 - Transaction Processing & Optimization
 - Database Design & Optimization (PostgreSQL)
 
@@ -162,6 +163,7 @@ Full-stack payment orchestration platform enabling freelancers and SMEs to accep
 ## 🌟 Open To
 
 - 🤝 Collaborations on fintech and scalable web systems projects
+- Oppurtunities
 - 💡 Discussing system design and architecture best practices
 - 📚 Mentoring junior developers in backend development
 - 🚀 Exploring innovative technologies and emerging patterns
