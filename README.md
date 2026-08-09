@@ -4,7 +4,6 @@
 
 Building scalable, production-grade systems with Java, React/Next.js, and Python. Passionate about designing robust microservices, optimizing backend transaction processing, and crafting real-time interfaces that drive user engagement and operational efficiency.
 
----
 
 ## 🚀 About Me
 
@@ -13,6 +12,7 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 - 🏗️ **Expertise**: Microservices architecture, fintech systems, RESTful API design, transaction processing optimization
 - 📊 **Proven Results**: Reduced transaction errors by 35-90%, improved page load performance by 50%, achieved 89% system uptime
 - 🎯 **Specialization**: Full-stack development with both monolith and microservices architectures
+- system design and Architecture 
 - 🌱 **Always Learning**: Exploring emerging technologies and best practices in distributed systems
 
 ---
@@ -36,17 +36,6 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 - **Message Queues**: RabbitMQ, Apache Kafka
 - **Databases**: PostgreSQL, SQL optimization
 - **DevOps & Tools**: Docker, Git/GitHub, CI/CD, Linux, AWS
-
----
-
-## 📈 Key Achievements
-
-✅ **Reduced transaction errors by 90%** through offline/online syncing and robust audit-safe transaction records  
-✅ **Improved page load & processing performance by 50%** with optimized backend systems  
-✅ **Achieved 89% uptime** on enterprise POS system serving multiple clients  
-✅ **35% reduction in transaction errors** across fintech platforms  
-✅ **Built 3 production fintech systems** handling real-time payments and settlements  
-✅ **Leading a growing portfolio** of 10+ enterprise client projects at Appsware Digital Solutions
 
 
 ## 🎯 Featured Projects
@@ -111,46 +100,7 @@ Full-stack payment orchestration platform enabling freelancers and SMEs to accep
 
 ---
 
-## 🎓 Key Competencies
-
-**Architecture & Design**
-- Microservices Architecture
-- RESTful API Design
-- System Design & Scalability
-- Design Patterns (Strategy, Factory, etc.)
-
-**Backend Development**
-- Java, Spring Boot, Spring Security, Spring MVC
-- Python, Flask
-- Javascript, node.js,express.js
-- Transaction Processing & Optimization
-- Database Design & Optimization (PostgreSQL)
-
-**Frontend Development**
-- React.js, Next.js, TypeScript
-- Responsive UI/UX Design
-- Real-time Interfaces
-
-**Fintech Specialization**
-- Payment Processing & Integration
-- Multi-provider Payment Routing
-- Webhook Processing & Idempotency
-- Security & Compliance
-- Transaction Reconciliation
-
-**DevOps & Tools**
-- Docker & Containerization
-- CI/CD Pipelines
-- Git & GitHub
-- Linux & Server Management
-- AWS
-
-**Messaging & Real-time Systems**
-- RabbitMQ
-- Apache Kafka
-- Real-time Notifications
-
----
+#
 
 ## 🌟 Open To
 
@@ -158,9 +108,8 @@ Full-stack payment orchestration platform enabling freelancers and SMEs to accep
 - Oppurtunities
 - 💡 Discussing system design and architecture best practices
 - 📚 Mentoring junior developers in backend development
-- 🚀 Exploring innovative technologies and emerging patterns
-
----
+- 🚀 Exploring innovative technologies and emerging patterns.
+  
 
 ## 💬 Let's Chat!
 
