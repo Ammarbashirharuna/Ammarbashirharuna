@@ -15,9 +15,7 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 - system design and Architecture 
 - 🌱 **Always Learning**: Exploring emerging technologies and best practices in distributed systems
 
----
 
-## 🛠️ Tech Stack
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
