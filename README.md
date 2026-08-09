@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ammar Bashir Haruna
 
-**Software Engineer** | **Fintech & Web Systems Architect** | **Founder & CTO at Appsware Digital Solutions**
+**Software Engineer** | **Fintech & Web Systems Architect** | Fullstack developer 
 
 Building scalable, production-grade systems with Java, React/Next.js, and Python. Passionate about designing robust microservices, optimizing backend transaction processing, and crafting real-time interfaces that drive user engagement and operational efficiency.
 
@@ -29,14 +29,6 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Fintech & System Design**
 - **Authentication & Security**: JWT, OAuth2, Spring Security, RBAC
@@ -56,7 +48,6 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 ✅ **Built 3 production fintech systems** handling real-time payments and settlements  
 ✅ **Leading a growing portfolio** of 10+ enterprise client projects at Appsware Digital Solutions
 
----
 
 ## 🎯 Featured Projects
 
