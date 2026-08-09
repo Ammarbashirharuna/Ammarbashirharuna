@@ -8,9 +8,8 @@ Building scalable, production-grade systems with Java, React/Next.js, and Python
 
 ## 🚀 About Me
 
-I'm a results-driven Software Engineer with a proven track record in designing and deploying scalable fintech and e-commerce systems. As the Founder & CTO of **Appsware Digital Solutions**, I lead the technical vision for delivering custom digital products and services to enterprise clients.
+I'm a results-driven Software Engineer with a proven track record in designing and deploying scalable fintech and e-commerce systems.
 
-- 💼 **Founder & CTO** at Appsware Digital Solutions (Jan 2020 - Present)
 - 🏗️ **Expertise**: Microservices architecture, fintech systems, RESTful API design, transaction processing optimization
 - 📊 **Proven Results**: Reduced transaction errors by 35-90%, improved page load performance by 50%, achieved 89% system uptime
 - 🎯 **Specialization**: Full-stack development with both monolith and microservices architectures
