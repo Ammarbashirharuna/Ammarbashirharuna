@@ -53,7 +53,7 @@ A comprehensive hybrid enterprise POS system for retail operations with:
 
 ---
 
-### **2. ZentraPay - Payment Link Generation System** 💳
+### **2. ZetaPay - Payment Link Generation System** 💳
 **Fintech Payment Orchestration Platform** | [GitHub Repo](https://github.com/Ammarbashirharuna/ZentraPayBackend)
 
 Full-stack payment orchestration platform enabling freelancers and SMEs to accept payments:
@@ -121,9 +121,6 @@ I'm always interested in discussing software architecture, fintech challenges, o
 
 <div align="center">
 
-### ⭐ If you find my projects interesting, consider giving them a star! It means a lot.
-
-**Thanks for visiting my profile!**  
 *Building the future, one scalable system at a time.*
 
 </div>
