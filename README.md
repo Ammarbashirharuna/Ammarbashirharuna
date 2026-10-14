@@ -36,35 +36,7 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 - **DevOps & Tools**: Docker, Git/GitHub, CI/CD, Linux, AWS
 
 
-## 🎯 Featured Projects
 
-### **1. Appsware POS System** 🛒
-**Enterprise Point-of-Sale Platform** | [GitHub Repo](https://github.com/Ammarbashirharuna/soventPOS-mono-repo)
-
-A comprehensive hybrid enterprise POS system for retail operations with:
-- **Tech Stack**: Java, Spring Boot, PostgreSQL, React
-- **Key Features**: 
-  - Role-based access control (Spring Security)
-  - Real-time inventory management with barcode scanning
-  - Offline/online syncing with 89% uptime
-  - Automated stock deduction & tax calculation
-  - Sales dashboards & audit-safe transaction records
-- **Impact**: 90% reduction in transaction errors, serving multiple enterprise clients
-
----
-
-### **2. ZetaPay - Payment Link Generation System** 💳
-**Fintech Payment Orchestration Platform** | [GitHub Repo](https://github.com/Ammarbashirharuna/ZentraPayBackend)
-
-Full-stack payment orchestration platform enabling freelancers and SMEs to accept payments:
-- **Tech Stack**: Java, Spring Boot, Next.js, PostgreSQL
-- **Key Highlights**:
-  - Multi-provider payment routing (Paystack, Stripe) using Strategy Pattern
-  - Secure webhook processing with signature verification & idempotency
-  - Real-time notifications (SendGrid) & comprehensive audit logging
-  - Role-based authentication with Spring Security
-  - Seamless payment settlement tracking
-- **Architecture**: Production-grade fintech design patterns
 
 
 
