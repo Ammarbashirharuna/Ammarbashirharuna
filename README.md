@@ -85,7 +85,7 @@ I'm a results-driven Software Engineer with a proven track record in designing a
 
 I'm always interested in discussing software architecture, fintech challenges, or potential collaborations. Feel free to reach out via:
 
-- **Email**: ammarbashir2020@gmail.com
+- **Email**: ammarbashirharuna2020@gmail.com
 - **LinkedIn**: [linkedin.com/in/am-mar](https://linkedin.com/in/am-mar)
 - **GitHub**: [@ammarbashirharuna](https://github.com/ammarbashirharuna)
 
