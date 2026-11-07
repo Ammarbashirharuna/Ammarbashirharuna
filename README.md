@@ -1,6 +1,6 @@
 # Ammar Bashir Haruna
 
-**Software Engineer · Backend & Fintech Systems · DevOps**
+**Software Engineer · Backend & Fintech Systems  · Distrubute Systems · DevOps **
 
 I build and ship production-grade backend systems for fintech and e-commerce, from API design and transaction processing to containerised deployment and CI/CD pipelines. I work primarily in Java and JavaScript/TypeScript.
 
