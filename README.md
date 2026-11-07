@@ -1,98 +1,82 @@
-# 👋 Hi, I'm Ammar Bashir Haruna
+# Ammar Bashir Haruna
 
-**Software Engineer** | **Fintech & Web Systems Architect** | Fullstack developer 
+**Software Engineer · Backend & Fintech Systems · DevOps**
 
-Building scalable, production-grade systems with Java, React/Next.js, and Python. Passionate about designing robust microservices, optimizing backend transaction processing, and crafting real-time interfaces that drive user engagement and operational efficiency.
+I build and ship production-grade backend systems for fintech and e-commerce, from API design and transaction processing to containerised deployment and CI/CD pipelines. I work primarily in Java and JavaScript/TypeScript.
 
+---
 
-## 🚀 About Me
+## What I Do
 
-I'm a results-driven Software Engineer with a proven track record in designing and deploying scalable fintech and e-commerce systems.
+- **Backend engineering:** Microservices and modular monoliths with Java (Spring Boot) and Node.js (NestJS)
+- **Fintech systems:** Payment provider abstraction, transaction processing, reliability and error reduction
+- **Full-stack delivery:** React and Next.js interfaces backed by well-designed REST APIs
+- **DevOps:** Docker-based deployments, CI/CD automation, and cloud infrastructure on AWS
+- **System design:** Service boundaries, data modelling, and asynchronous messaging
 
-- 🏗️ **Expertise**: Microservices architecture, fintech systems, RESTful API design, transaction processing optimization
-- 📊 **Proven Results**: Reduced transaction errors by 35-90%, improved page load performance by 50%, achieved 89% system uptime
-- 🎯 **Specialization**: Full-stack development with both monolith and microservices architectures
-- system design and Architecture 
-- 🌱 **Always Learning**: Exploring emerging technologies and best practices in distributed systems
+## Selected Impact
 
+- Reduced transaction errors by up to 90% through improved processing and validation flows
+- Improved page load performance by 50% on customer-facing web applications
 
+---
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## Tech Stack
 
+**Languages**
 
-### **Fintech & System Design**
-- **Authentication & Security**: JWT, OAuth2, Spring Security, RBAC
-- **Architecture Patterns**: Microservices, RESTful APIs, Strategy Pattern, Payment Provider Abstraction
-- **Message Queues**: RabbitMQ, Apache Kafka
-- **Databases**: PostgreSQL, SQL optimization
-- **DevOps & Tools**: Docker, Git/GitHub, CI/CD, Linux, AWS
+![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
+**Backend & Frameworks**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
+**Data & Messaging**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
+**DevOps & Cloud**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**Security & Architecture:** JWT, OAuth2, RBAC, Spring Security, REST API design, microservices, event-driven design
 
+---
 
-## 🔗 Connect With Me
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/am-mar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ammarbashirharuna)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarbashir2020@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://www.appsware.ng/)
-
-**Phone**: +234 704 587 2815
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarbashirharuna&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarbashirharuna&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Open To
 
-<div align="center">
+- Collaboration on fintech and scalable backend projects
+- Engineering roles and new opportunities
+- Conversations on system design and architecture
+- Mentoring developers getting started in backend development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammarbashirharuna&show_icons=true&theme=radical&hide_border=true)
+## Contact
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarbashirharuna&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-#
-
-## 🌟 Open To
-
-- 🤝 Collaborations on fintech and scalable web systems projects
-- Oppurtunities
-- 💡 Discussing system design and architecture best practices
-- 📚 Mentoring junior developers in backend development
-- 🚀 Exploring innovative technologies and emerging patterns.
-  
-
-## 💬 Let's Chat!
-
-I'm always interested in discussing software architecture, fintech challenges, or potential collaborations. Feel free to reach out via:
-
-- **Email**: ammarbashirharuna2020@gmail.com
-- **LinkedIn**: [linkedin.com/in/am-mar](https://linkedin.com/in/am-mar)
-- **GitHub**: [@ammarbashirharuna](https://github.com/ammarbashirharuna)
-
----
-
-<div align="center">
-
-*Building the future, one scalable system at a time.*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/am-mar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=firefox&logoColor=white)](https://www.appsware.ng/)
