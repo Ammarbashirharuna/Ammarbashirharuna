@@ -8,18 +8,17 @@ I build and ship production-grade backend systems for fintech and e-commerce, fr
 
 ## What I Do
 
-- **Backend engineering:** Microservices and modular monoliths with Java (Spring Boot) and Node.js (NestJS)
+- **Backend engineering:** Microservices and modular monoliths with Java (Spring Boot) and Node.js (NestJS, Express.js) 
 - **Fintech systems:** Payment provider abstraction, transaction processing, reliability and error reduction
 - **Full-stack delivery:** React and Next.js interfaces backed by well-designed REST APIs
-- **DevOps:** Docker-based deployments, CI/CD automation, and cloud infrastructure on AWS
+- **DevOps:** Docker-based deployments, CI/CD automation, and cloud infrastructure 
 - **System design:** Service boundaries, data modelling, and asynchronous messaging
 
 ## Selected Impact
 
+- Increased system uptime by 70% by optimizing CI/CD pipelines, reducing development errors, and improving production release quality
 - Reduced transaction errors by up to 90% through improved processing and validation flows
 - Improved page load performance by 50% on customer-facing web applications
-
----
 
 ## Tech Stack
 
@@ -53,7 +52,7 @@ I build and ship production-grade backend systems for fintech and e-commerce, fr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Security & Architecture:** JWT, OAuth2, RBAC, Spring Security, REST API design, microservices, event-driven design
+**Security & Architecture:** JWT, OAuth2, RBAC, Spring Security, REST API design, microservices, event-driven design, Domain-Driven Design.
 
 ---
 
@@ -68,15 +67,10 @@ I build and ship production-grade backend systems for fintech and e-commerce, fr
 
 ---
 
-## Open To
 
-- Collaboration on fintech and scalable backend projects
-- Engineering roles and new opportunities
-- Conversations on system design and architecture
-- Mentoring developers getting started in backend development
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/am-mar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=firefox&logoColor=white)](https://www.appsware.ng/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ammarbashirharuna2020@gmail.com)
+[![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=firefox&logoColor=white)](https://ammarwebsire.vercel.app/)
